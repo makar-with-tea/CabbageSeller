@@ -45,6 +45,6 @@ _Я искренне извиняюсь за такой спагетти-код�
 ## Источники
 Static meshes взяты вот отсюда:
 
-https://www.fab.com/listings/2fbc1ac8-e559-4392-9625-5e3f118008e4 - еда
+https://www.fab.com/listings/2fbc1ac8-e559-4392-9625-5e3f118008e4 - еда (вот эта [папка](/Content/Food_Pack_01))
 
-https://www.fab.com/listings/de26fd1e-d854-4558-a4a2-e5d9f9eb0fae - персонаж игрока
+https://www.fab.com/listings/de26fd1e-d854-4558-a4a2-e5d9f9eb0fae - персонаж игрока (вот эта [папка](/Content/Modern_woman))
